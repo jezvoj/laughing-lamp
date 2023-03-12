@@ -1,0 +1,15 @@
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\bin\Debug\net6.0\JiraTestApp.exe
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\bin\Debug\net6.0\JiraTestApp.deps.json
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\bin\Debug\net6.0\JiraTestApp.runtimeconfig.json
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\bin\Debug\net6.0\JiraTestApp.dll
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\bin\Debug\net6.0\JiraTestApp.pdb
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\JiraTestApp.csproj.AssemblyReference.cache
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\JiraTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\JiraTestApp.AssemblyInfoInputs.cache
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\JiraTestApp.AssemblyInfo.cs
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\JiraTestApp.csproj.CoreCompileInputs.cache
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\JiraTestApp.dll
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\refint\JiraTestApp.dll
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\JiraTestApp.pdb
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\JiraTestApp.genruntimeconfig.cache
+C:\Users\vojte\laughing-lamp\laughing-lamp\JiraTestApp\JiraTestApp\obj\Debug\net6.0\ref\JiraTestApp.dll
