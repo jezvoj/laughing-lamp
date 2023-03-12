@@ -5,6 +5,11 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Testing Jira");
+
+            for(int i  = 1; i < 6; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
